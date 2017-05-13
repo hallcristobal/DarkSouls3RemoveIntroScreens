@@ -8,6 +8,10 @@ These are the logos normally shown when first starting DS3 and after saving and 
 
 
 == Supported Versions ==
+v1.14
+v1.13
+v1.12
+v1.11
 v1.10
 v1.09
 v1.08
